@@ -1,0 +1,9 @@
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\bin\Debug\WUPLOAD.exe
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\bin\Debug\WUPLOAD.pdb
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\bin\Debug\WUPLOAD.xml
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.Form1.resources
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.Resources.resources
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.exe
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.xml
+C:\Users\Anony\Desktop\WUPLOAD\WUPLOAD\obj\Debug\WUPLOAD.pdb
